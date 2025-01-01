@@ -127,7 +127,7 @@ module.exports = naisa = async (naisa, m, chatUpdate, store) => {
         if(time2 < "03:00:00"){
         var ucapanWaktu = 'Selamat Tengah Malam 🌃'
 }
-        const HBD = new Date('Maret 24, 2024 06:00:00').getTime();
+        const HBD = new Date('Agustus 20, 2025 06:00:00').getTime();
         const sekarang = new Date().getTime();
         const Selisih = HBD - sekarang;
         const jhari = Math.floor(Selisih / (1000 * 60 * 60 * 24));
