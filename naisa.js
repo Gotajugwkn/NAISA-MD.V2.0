@@ -1418,7 +1418,7 @@ break
 └┬─────────────┈❖
 ┌┤「 CONTRIBUTOR 」
 │└─────────────┈❖
-│• Dryan-MD.(Author)
+│• reksa-MD.(Author)
 │• DikaArdnt.
 │• GuaAbuzz. 
 │• Sanzy YT.
